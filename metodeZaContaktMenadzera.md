@@ -15,5 +15,3 @@ prikazKontakta          -prikazuje jedan kontakt detaljno
 sortiranje    
 brisanjeIzTabele        -brisanje kontakta iz tabele          
 brisanjeIzTabele        -brisanje kontakta iz local storaga
-
-
