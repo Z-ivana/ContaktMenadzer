@@ -26,11 +26,11 @@ function sacuvajULocalStorage  (){
 function isprazniFormu(){
 
 }          //  -prazni formu kad je kontakt sacuvan
-function citanjeIzLOcalStorage(){
-
+function citanjeIzLOcalStorage(ime){
+    return osoba;
 }  //  -poziva podatke koji su upisani u local storage
 
-function izmenaKontakta  (){
+function izmenaKontakta  (ime,kontakti){
 
 }        // -poziva ispisKontakta,unesiPodatke,sacuvajULocalStorage
 
